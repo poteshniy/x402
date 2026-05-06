@@ -1,0 +1,7 @@
+{
+  "name": "AgentTrust",
+  "description": "Security scanner and reputation oracle for AI agent skills. Scan OpenClaw SKILL.md files for malware, prompt injection, data exfiltration, and 37 other threat patterns before installing. x402-native on Base mainnet, no API keys.",
+  "logoUrl": "/logos/agenttrust.png",
+  "websiteUrl": "https://agenttrust.uk",
+  "category": "Services/Endpoints"
+}
